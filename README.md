@@ -1,2 +1,2 @@
 # WebDev-studies
-Templates of webpages that I've been trying my hands on.
+Templates of webpages that I've been trying myself on.
